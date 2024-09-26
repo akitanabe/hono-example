@@ -1,0 +1,14 @@
+{
+  "name": "hono-example",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.6.3"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.2",
+    "@types/bun": "latest",
+    "prettier": "^3.3.3"
+  }
+}
